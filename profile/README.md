@@ -1,1 +1,1 @@
-adhikari-statgen-lab
+Welcome to the lab's GitHub home page! It is run by [Dr Kaustubh Adhikari](https://profiles.open.ac.uk/Kaustubh-Adhikari) at the Open University and his research team members. This is a repository of various projects created by the lab related to stats and computation on human genetics datasets.
